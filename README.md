@@ -18,4 +18,6 @@ pip install pymysql
 ~~~ shel
 uvicorn main:app --reload
 ~~~
-
+<p align='center'>
+  <img src='video.gif'>
+</p>
